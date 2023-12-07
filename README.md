@@ -20,7 +20,7 @@ yarn
 
 ## Connecting to the Backend
 
-### [MIParty Backend](https://expo.dev/) must be installed.
+### [MIParty Backend](https://github.com/josuelJFS/MIParty-backend) must be installed.
 
 ### Setting the backend IP
 
