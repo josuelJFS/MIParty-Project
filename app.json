@@ -20,7 +20,6 @@
     },
     "android": {
       "package": "com.josuel123.MIParty",
-      "googleServicesFile": "./google-services.json",
       "versionCode": 10,
       "config": {
         "googleMaps": {
