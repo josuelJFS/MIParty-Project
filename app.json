@@ -1,0 +1,43 @@
+{
+  "name": "MIParty",
+  "slug": "MIParty",
+  "displayName": "MIParty",
+  "expo": {
+    "name": "MIParty",
+    "slug": "MIParty",
+    "version": "1.0.10",
+    "originalFullName": "@josuel123/MIParty",
+    "assetBundlePatterns": ["**/*"],
+    "scheme": "miparty",
+    "icon": "./src/img/icon.png",
+    "splash": {
+      "image": "./src/img/splash.png",
+      "resizeMode": "cover"
+    },
+    "ios": {
+      "bundleIdentifier": "com.josuel123.MIParty",
+      "requireFullScreen": true
+    },
+    "android": {
+      "package": "com.josuel123.MIParty",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 10,
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBdgiFLXk8Qt6F2NYuN5RRDx4h5ArmL2E4"
+        }
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "34490021-01e7-45be-8364-9f96cc042d91"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/34490021-01e7-45be-8364-9f96cc042d91"
+    }
+  }
+}

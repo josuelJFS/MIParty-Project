@@ -1,0 +1,14 @@
+{
+    "prettier.printWidth": 100,
+    
+        "eslint.validate": [
+          "javascript",
+          "javascriptreact",
+          "typescript",
+          "typescriptreact",
+        ],
+        "editor.codeActionsOnSave": {
+          "source.fixAll.eslint": true,
+        },
+        "java.configuration.updateBuildConfiguration": "disabled",
+}
