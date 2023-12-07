@@ -26,7 +26,9 @@ yarn
 
 `src/services/apiAxios.tsx`
 
-`baseURL: "http://yourIp:3333/"`
+`baseURL: "http://yourLocalIp:3333/"`
+
+"Use the machine's IP where [MIParty Backend](https://github.com/josuelJFS/MIParty-backend) is running, or the app won't log in. I left the Google example API for testing to work correctly."
 
 # Starting MIParty App
 
@@ -43,3 +45,7 @@ npx expo start
 #### After that, open the [Expo Go app](https://expo.dev/expo-go) and scan the QR code displayed in the project terminal.
 
 ### There you go! Now you can start using MIParty.
+
+![login](https://ibb.co/d7V31hk)
+
+![home](https://ibb.co/sHW5NbX)
