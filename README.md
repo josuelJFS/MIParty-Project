@@ -46,6 +46,6 @@ npx expo start
 
 ### There you go! Now you can start using MIParty.
 
-![login](https://ibb.co/d7V31hk)
+![login](https://lh3.googleusercontent.com/pw/ADCreHf14FTQ4NHuBva93q3OD4AZ9Pq9rcrAt2fxGlu7RWlxtGn5ps-eNxiUuMrKwRFnp1vzNuiBnkzqytOK6CAHylFan-D63nwurkvV-S1qMdq5Fcchlg8R0EWWaeLsX6hd-WHCZh9Zh8bFlLYjd5_klHT2vg=w414-h897-s-no-gm?authuser=0)
 
-![home](https://ibb.co/sHW5NbX)
+![home](https://lh3.googleusercontent.com/pw/ADCreHcVAesFMf2p4Hx6OHdLa6TKojZ8zZDRGJKHC0PnnkNi8_jrWUyidDo5wdx7imYWUNZitKRJdXe_WpfNS2YV7FPdOT3_a_XtycONyigjOMADZZmOuYFaA9mljP2erL2i1ByTzk2lyrTYRjSPg794TkbnRw=w414-h897-s-no-gm?authuser=0)
